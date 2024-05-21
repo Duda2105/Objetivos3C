@@ -6,4 +6,5 @@
     font-style: normal;}
     body { background-color: var(--cor-de-fundo);    color: var(--branco); font-family: ‘Chakra
         Petch’, sans-serif; }
-  
+  .titulo-principal span{ color: var(--verde);}
+  .botao{ font-family: Crakra Petch, sans-serif;
